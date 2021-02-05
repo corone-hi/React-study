@@ -19,9 +19,9 @@ $ yarn add node-sass classnames react-icons
 
 # CSS Module
 
-**.module.css 확장자 사용 **
+**.module.css 확장자 사용**
 
-**.module.scss 형태로 동시 사용 가능 **
+**.module.scss 형태로 동시 사용 가능**
 
 # styled-components
 
